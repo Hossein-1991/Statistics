@@ -7,6 +7,6 @@ Data:
 -------
 The most commonly used data sets in this repo are:
 - sun spots which are available here: https://www.kaggle.com/robervalt/sunspots
-- CMB patches which are available here:
+- CMB patches which are available here: http://dc.zah.uni-heidelberg.de/elsnersim/q/s/fixed
 
 
